@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/AdarshRai27/Leetcode/tree/master/1260-shift-2d-grid) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/AdarshRai27/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Matrix
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AdarshRai27/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Hash Table
+|  |
+| ------- |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/AdarshRai27/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+## Counting
+|  |
+| ------- |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/AdarshRai27/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 <!---LeetCode Topics End-->
