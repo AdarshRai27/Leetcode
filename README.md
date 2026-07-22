@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/AdarshRai27/Leetcode/tree/master/0006-zigzag-conversion) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AdarshRai27/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
 |  |
