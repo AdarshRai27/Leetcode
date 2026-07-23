@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/AdarshRai27/Leetcode/tree/master/0006-zigzag-conversion) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/AdarshRai27/Leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AdarshRai27/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3941-password-strength](https://github.com/AdarshRai27/Leetcode/tree/master/3941-password-strength) |
 ## Enumeration
@@ -32,9 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/AdarshRai27/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/AdarshRai27/Leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3941-password-strength](https://github.com/AdarshRai27/Leetcode/tree/master/3941-password-strength) |
 ## Counting
 |  |
 | ------- |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/AdarshRai27/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+## Sorting
+|  |
+| ------- |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/AdarshRai27/Leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 <!---LeetCode Topics End-->
