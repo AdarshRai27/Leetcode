@@ -12,7 +12,9 @@ public:
                     i++;
                 }
                 t += s[i];
-                homo.push_back(t);
+                long long n =t.size(); 
+                ans = (ans + (n * (n + 1)) / 2) % 1000000007;
+                //homo.push_back(t);
                 i++;
             } else {
                 i++;
@@ -21,10 +23,10 @@ public:
         }
             if (i == s.size() - 1)
                 ans = (ans + 1) % 1000000007;
-            for (int j = 0; j < homo.size(); j++) {
-                long long n = homo[j].size(); 
-                ans = (ans + (n * (n + 1)) / 2) % 1000000007;
-            }
+            // for (int j = 0; j < homo.size(); j++) {
+            //     long long n = homo[j].size(); 
+            //     ans = (ans + (n * (n + 1)) / 2) % 1000000007;
+            // }
             return ans;
         }
     };
