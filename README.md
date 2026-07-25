@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AdarshRai27/Leetcode/tree/master/0007-reverse-integer) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/AdarshRai27/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdarshRai27/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/AdarshRai27/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/AdarshRai27/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0648-replace-words](https://github.com/AdarshRai27/Leetcode/tree/master/0648-replace-words) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/AdarshRai27/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/AdarshRai27/Leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AdarshRai27/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3941-password-strength](https://github.com/AdarshRai27/Leetcode/tree/master/3941-password-strength) |
