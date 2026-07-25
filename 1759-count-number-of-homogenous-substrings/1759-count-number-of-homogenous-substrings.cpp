@@ -6,15 +6,14 @@ public:
         int i = 0;
         while (i + 1 < s.size()) {
             if (s[i] == s[i + 1]) {
-                string t = "";
+                long long t =1;
                 while (i < s.size() - 1 && s[i] == s[i + 1]) {
-                    t += s[i];
+                    t ++;
                     i++;
                 }
-                t += s[i];
-                long long n =t.size(); 
-                ans = (ans + (n * (n + 1)) / 2) % 1000000007;
-                //homo.push_back(t);
+                //t ++; 
+                ans = (ans + (t * (t + 1)) / 2) % 1000000007;
+                
                 i++;
             } else {
                 i++;
