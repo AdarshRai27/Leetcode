@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0648-replace-words](https://github.com/AdarshRai27/Leetcode/tree/master/0648-replace-words) |
 | [1260-shift-2d-grid](https://github.com/AdarshRai27/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdarshRai27/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/AdarshRai27/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdarshRai27/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Matrix
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdarshRai27/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/AdarshRai27/Leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/AdarshRai27/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/AdarshRai27/Leetcode/tree/master/0648-replace-words) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdarshRai27/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
