@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AdarshRai27/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdarshRai27/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/AdarshRai27/Leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,17 +48,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/AdarshRai27/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/AdarshRai27/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/AdarshRai27/Leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/AdarshRai27/Leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3941-password-strength](https://github.com/AdarshRai27/Leetcode/tree/master/3941-password-strength) |
 ## Counting
 |  |
 | ------- |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/AdarshRai27/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/AdarshRai27/Leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Sorting
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdarshRai27/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/AdarshRai27/Leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/AdarshRai27/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/AdarshRai27/Leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Bit Manipulation
 |  |
 | ------- |
