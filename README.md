@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AdarshRai27/Leetcode/tree/master/0007-reverse-integer) |
+| [0877-stone-game](https://github.com/AdarshRai27/Leetcode/tree/master/0877-stone-game) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/AdarshRai27/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdarshRai27/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/AdarshRai27/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/AdarshRai27/Leetcode/tree/master/0648-replace-words) |
+| [0877-stone-game](https://github.com/AdarshRai27/Leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/AdarshRai27/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdarshRai27/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1980-find-unique-binary-string](https://github.com/AdarshRai27/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/AdarshRai27/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AdarshRai27/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AdarshRai27/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
