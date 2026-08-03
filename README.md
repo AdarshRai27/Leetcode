@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/AdarshRai27/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0038-count-and-say](https://github.com/AdarshRai27/Leetcode/tree/master/0038-count-and-say) |
 | [0648-replace-words](https://github.com/AdarshRai27/Leetcode/tree/master/0648-replace-words) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/AdarshRai27/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1980-find-unique-binary-string](https://github.com/AdarshRai27/Leetcode/tree/master/1980-find-unique-binary-string) |
