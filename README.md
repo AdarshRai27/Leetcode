@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AdarshRai27/Leetcode/tree/master/0007-reverse-integer) |
 | [0877-stone-game](https://github.com/AdarshRai27/Leetcode/tree/master/0877-stone-game) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/AdarshRai27/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AdarshRai27/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdarshRai27/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/AdarshRai27/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/AdarshRai27/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AdarshRai27/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AdarshRai27/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdarshRai27/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/AdarshRai27/Leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
