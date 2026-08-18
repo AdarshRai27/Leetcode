@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/AdarshRai27/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/AdarshRai27/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdarshRai27/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/AdarshRai27/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdarshRai27/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/AdarshRai27/Leetcode/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdarshRai27/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdarshRai27/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/AdarshRai27/Leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/AdarshRai27/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/AdarshRai27/Leetcode/tree/master/3731-find-missing-elements) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/AdarshRai27/Leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3941-password-strength](https://github.com/AdarshRai27/Leetcode/tree/master/3941-password-strength) |
