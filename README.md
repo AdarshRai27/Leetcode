@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1759-count-number-of-homogenous-substrings](https://github.com/AdarshRai27/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1927-sum-game](https://github.com/AdarshRai27/Leetcode/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/AdarshRai27/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdarshRai27/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdarshRai27/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/AdarshRai27/Leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AdarshRai27/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdarshRai27/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdarshRai27/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdarshRai27/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Tree
