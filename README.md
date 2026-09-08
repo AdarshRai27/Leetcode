@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdarshRai27/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/AdarshRai27/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AdarshRai27/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/AdarshRai27/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AdarshRai27/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/AdarshRai27/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Array
