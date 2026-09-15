@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AdarshRai27/Leetcode/tree/master/0007-reverse-integer) |
+| [0523-continuous-subarray-sum](https://github.com/AdarshRai27/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/AdarshRai27/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AdarshRai27/Leetcode/tree/master/0877-stone-game) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/AdarshRai27/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AdarshRai27/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AdarshRai27/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AdarshRai27/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/AdarshRai27/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/AdarshRai27/Leetcode/tree/master/0648-replace-words) |
 | [0877-stone-game](https://github.com/AdarshRai27/Leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/AdarshRai27/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdarshRai27/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AdarshRai27/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/AdarshRai27/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/AdarshRai27/Leetcode/tree/master/0648-replace-words) |
 | [1386-cinema-seat-allocation](https://github.com/AdarshRai27/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1980-find-unique-binary-string](https://github.com/AdarshRai27/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -192,10 +195,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/AdarshRai27/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [3903-smallest-stable-index-i](https://github.com/AdarshRai27/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AdarshRai27/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/AdarshRai27/Leetcode/tree/master/0836-rectangle-overlap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/AdarshRai27/Leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
