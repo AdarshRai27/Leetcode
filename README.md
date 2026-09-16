@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AdarshRai27/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AdarshRai27/Leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdarshRai27/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AdarshRai27/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AdarshRai27/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AdarshRai27/Leetcode/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/AdarshRai27/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdarshRai27/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdarshRai27/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/AdarshRai27/Leetcode/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/AdarshRai27/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Counting Sort
 |  |
