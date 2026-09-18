@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AdarshRai27/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AdarshRai27/Leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdarshRai27/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/AdarshRai27/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AdarshRai27/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AdarshRai27/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/AdarshRai27/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/AdarshRai27/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/AdarshRai27/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AdarshRai27/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3903-smallest-stable-index-i](https://github.com/AdarshRai27/Leetcode/tree/master/3903-smallest-stable-index-i) |
