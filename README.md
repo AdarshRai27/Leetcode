@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/AdarshRai27/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/AdarshRai27/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AdarshRai27/Leetcode/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/AdarshRai27/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/AdarshRai27/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1927-sum-game](https://github.com/AdarshRai27/Leetcode/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AdarshRai27/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/AdarshRai27/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/AdarshRai27/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Pigeonhole Principle
 |  |
 | ------- |
