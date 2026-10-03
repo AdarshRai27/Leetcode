@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AdarshRai27/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/AdarshRai27/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AdarshRai27/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Prefix Sum
 |  |
@@ -243,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AdarshRai27/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/AdarshRai27/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
