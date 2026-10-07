@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AdarshRai27/Leetcode/tree/master/0007-reverse-integer) |
+| [0089-gray-code](https://github.com/AdarshRai27/Leetcode/tree/master/0089-gray-code) |
 | [0523-continuous-subarray-sum](https://github.com/AdarshRai27/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/AdarshRai27/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AdarshRai27/Leetcode/tree/master/0877-stone-game) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AdarshRai27/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/AdarshRai27/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/AdarshRai27/Leetcode/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/AdarshRai27/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdarshRai27/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdarshRai27/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/AdarshRai27/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/AdarshRai27/Leetcode/tree/master/0089-gray-code) |
 | [1980-find-unique-binary-string](https://github.com/AdarshRai27/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Counting Sort
 |  |
