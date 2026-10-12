@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/AdarshRai27/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/AdarshRai27/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AdarshRai27/Leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdarshRai27/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdarshRai27/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/AdarshRai27/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/AdarshRai27/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/AdarshRai27/Leetcode/tree/master/0089-gray-code) |
 | [1980-find-unique-binary-string](https://github.com/AdarshRai27/Leetcode/tree/master/1980-find-unique-binary-string) |
