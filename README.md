@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AdarshRai27/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdarshRai27/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/AdarshRai27/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0640-solve-the-equation](https://github.com/AdarshRai27/Leetcode/tree/master/0640-solve-the-equation) |
 | [0836-rectangle-overlap](https://github.com/AdarshRai27/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AdarshRai27/Leetcode/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AdarshRai27/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0640-solve-the-equation](https://github.com/AdarshRai27/Leetcode/tree/master/0640-solve-the-equation) |
 | [1260-shift-2d-grid](https://github.com/AdarshRai27/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AdarshRai27/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AdarshRai27/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/AdarshRai27/Leetcode/tree/master/0038-count-and-say) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdarshRai27/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0640-solve-the-equation](https://github.com/AdarshRai27/Leetcode/tree/master/0640-solve-the-equation) |
 | [0648-replace-words](https://github.com/AdarshRai27/Leetcode/tree/master/0648-replace-words) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AdarshRai27/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AdarshRai27/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -313,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AdarshRai27/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Linear Algebra
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/AdarshRai27/Leetcode/tree/master/0640-solve-the-equation) |
 <!---LeetCode Topics End-->
