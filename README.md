@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/AdarshRai27/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AdarshRai27/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AdarshRai27/Leetcode/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/AdarshRai27/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdarshRai27/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/AdarshRai27/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AdarshRai27/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AdarshRai27/Leetcode/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/AdarshRai27/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdarshRai27/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
@@ -219,12 +221,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/AdarshRai27/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AdarshRai27/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AdarshRai27/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/AdarshRai27/Leetcode/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/AdarshRai27/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AdarshRai27/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AdarshRai27/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/AdarshRai27/Leetcode/tree/master/0200-number-of-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdarshRai27/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
@@ -325,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/AdarshRai27/Leetcode/tree/master/0640-solve-the-equation) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AdarshRai27/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
